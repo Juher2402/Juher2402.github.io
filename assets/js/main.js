@@ -62,12 +62,12 @@ contactForm.addEventListener('submit', (e)=>{
 
 /* --- Personalization (edit these) --- */
 const PROFILE = {
-  name: 'Manish Kumar',
-  email: 'manish@kryptora.com',
-  phone: '+91-9149104872W',
+  name: 'Juher Khan',
+  email: 'juherkhan86@gmail.com',
+  phone: '+91-8475935421',
   links: {
-    github: 'https://github.com/codewithkryptora',
-    linkedin: 'https://www.linkedin.com/in/manish-kumar-b7b25755/',
+    github: 'https://github.com/Juher2402',
+    linkedin: 'www.linkedin.com/in/juher-khan-127490338',
     twitter: '#',
     kaggle: '#'
   }
